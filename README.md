@@ -1,0 +1,2 @@
+# Learn-RicPlus
+RicPlus notes
